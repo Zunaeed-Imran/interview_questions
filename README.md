@@ -5,3 +5,4 @@
 4. calculator using "try catch"
 5. how to deploy a site.
 6. what is call back, give an example of a callback function.
+7. what is javascript colser?
