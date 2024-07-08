@@ -13,3 +13,8 @@
 12. Different between asyncronise and syncronise.
 13. different between async an dparallel.
 14. what is the work of "middleware" with example.
+15. what hook we use in react for navigate??
+16. what is the work of redux.
+17. what is flax
+ - it is a pattern using in redux.
+ 
