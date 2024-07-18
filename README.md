@@ -32,5 +32,8 @@
 30. any idea about dependency INjection.
 31. do you know about ORM.
 32. full form of ORM.
+33. what is the work of service provider.
+34. what is model accessor?
+35. what is polymorfiq relationship?
 
 
