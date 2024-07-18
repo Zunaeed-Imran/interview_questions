@@ -20,3 +20,7 @@
 18. tell me about some features about redux toolkit.
 19. what is state management?
 20. what is usecontext?
+21. how do you manage your two authentication key in laravel project.
+22. do you have any idea about gurad in laravel?
+23. in same browser i use two tab, one as user, and two as admin, how do u manage authentication.
+24. 
