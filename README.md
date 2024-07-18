@@ -23,4 +23,14 @@
 21. how do you manage your two authentication key in laravel project.
 22. do you have any idea about gurad in laravel?
 23. in same browser i use two tab, one as user, and two as admin, how do u manage authentication.
-24. 
+24. what is cider in laravel?
+25. do we need cider in production?
+26. any idea about query login.
+27. what is teh actual purpose of middleware.
+28. do make a custom fasade in laravel?
+29. tell some facade name.
+30. any idea about dependency INjection.
+31. do you know about ORM.
+32. full form of ORM.
+
+
