@@ -35,5 +35,6 @@
 33. what is the work of service provider.
 34. what is model accessor?
 35. what is polymorfiq relationship?
+36. what is the different between abstract class & interface.
 
 
