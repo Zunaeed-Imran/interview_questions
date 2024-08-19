@@ -39,3 +39,4 @@
 37. what is migration in laravel. (Explain)
 38. explain Laravel life-Cycle.
 39. what is route in laravel? explain..
+40. what is the different between props and state in react? 
